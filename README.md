@@ -9,7 +9,7 @@ Testing the users submitted solution code for each Kata is carried out server-si
 ### Katatak API
 
 The hosted backend API can be found here: https://katatak.onrender.com/api/
-The repo for the backend is here: https://github.com/pigeonwatcher/katatak-be
+The repo for the backend is here: [https://github.com/VenturingForth/katatak-be](https://github.com/VenturingForth/katatak-be/)
 
 ### The App
 
