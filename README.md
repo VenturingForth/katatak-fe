@@ -40,7 +40,7 @@ Recommended minimum version of node: v20.8.0
 
 In the command line, start by navigating to the directory where you wish to clone the repo.
 
-Run the command `git clone https://github.com/gpynadath/katatak-fe.git` to clone this repo.
+Run the command `git clone https://github.com/VenturingForth/katatak-fe.git` to clone this repo.
 
 #### Ensure you have all the required npm packages installed
 
